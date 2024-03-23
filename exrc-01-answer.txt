@@ -1,0 +1,7 @@
+Exercise 01 Answer :
+relative_humidity=0.0
+temperature_average=0.0
+wind_speed=0.0
+precipitation_amount=0.0
+pressure_verage=0.0
+
